@@ -1,1 +1,1 @@
-# codewars-python-solutions
+Solving Codewars katas using test-driven development (TDD).
