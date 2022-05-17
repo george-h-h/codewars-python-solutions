@@ -1,1 +1,1 @@
-Solving Codewars katas using test-driven development (TDD).
+Solving Codewars katas in Python using test-driven development (TDD).
